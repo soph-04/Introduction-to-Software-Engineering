@@ -1,0 +1,2 @@
+What data structure stores data in (key, value) pairs
+hash map

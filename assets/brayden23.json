@@ -1,0 +1,84 @@
+[{
+"difficulty": "easy",
+"subject": "cs",
+"playerWon": "true",
+"playerRecords": [
+	{
+		"question": "What type of language is XML?",
+		"answer": "Markup",
+		"userAnswer": "markup",
+		"confidence": 3,
+		"correctness": true,
+		"timeTaken": 4.8465734
+	},
+	{
+		"question": "What is the main function of a firewall?",
+		"answer": "Security",
+		"userAnswer": "safety",
+		"confidence": 1,
+		"timeTaken": 8.320208
+	},
+	{
+		"question": "What is Git used for?",
+		"answer": "Version control",
+		"userAnswer": "version control",
+		"confidence": 3,
+		"correctness": true,
+		"timeTaken": 3.7722597
+	},
+	{
+		"question": "What is an IDE used for?",
+		"answer": "Development",
+		"userAnswer": "development",
+		"confidence": 3,
+		"correctness": true,
+		"timeTaken": 3.4025545
+	},
+	{
+		"question": "What type of memory is RAM?",
+		"answer": "Volatile",
+		"userAnswer": "volatile",
+		"confidence": 3,
+		"correctness": true,
+		"timeTaken": 5.5746913
+	},
+	{
+		"question": "What is SQL used for in databases?",
+		"answer": "Querying",
+		"userAnswer": "data management",
+		"confidence": 3,
+		"timeTaken": 5.8737698
+	},
+	{
+		"question": "What does CPU execute?",
+		"answer": "Instructions",
+		"userAnswer": "instructions",
+		"confidence": 3,
+		"correctness": true,
+		"timeTaken": 3.7525187
+	},
+	{
+		"question": "What do routers do with data?",
+		"answer": "Forwarding",
+		"userAnswer": "idk",
+		"confidence": 1,
+		"timeTaken": 5.602336
+	},
+	{
+		"question": "What does Wi-Fi provide for devices?",
+		"answer": "Connectivity",
+		"userAnswer": "internet connection",
+		"confidence": 3,
+		"timeTaken": 8.203376
+	},
+	{
+		"question": "What type of network is LAN?",
+		"answer": "Local",
+		"userAnswer": "local",
+		"confidence": 3,
+		"correctness": true,
+		"timeTaken": 2.6525073
+	}
+],
+"totalPoints": 8100
+}]

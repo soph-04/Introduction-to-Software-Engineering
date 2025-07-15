@@ -1,0 +1,1908 @@
+[
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"playerRecords": [
+		{
+			"question": "What does \"CPU\" stand for?",
+			"answer": "Central Processing Unit",
+			"userAnswer": "central processing unit",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.5516243
+		},
+		{
+			"question": "What is the primary purpose of a firewall?",
+			"answer": "Protection",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 4.969308
+		},
+		{
+			"question": "What is the full form of \"URL\"?",
+			"answer": "Uniform Resource Locator",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 2.5370226
+		},
+		{
+			"question": "What is the primary function of an operating system?",
+			"answer": "Management",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 4.2359056
+		},
+		{
+			"question": "What is the main function of a CPU?",
+			"answer": "Execution",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 2.336279
+		},
+		{
+			"question": "What does \"WWW\" stand for in a website's URL?",
+			"answer": "World Wide Web",
+			"userAnswer": "world wide web",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.536294
+		},
+		{
+			"question": "What does \"WWW\" stand for in a website's URL?",
+			"answer": "World Wide Web",
+			"userAnswer": "world wide web",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.7359943
+		},
+		{
+			"question": "What does HTML stand for?",
+			"answer": "Hypertext Markup Language",
+			"userAnswer": "hypertext markup language",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.1533356
+		},
+		{
+			"question": "What does HTML stand for?",
+			"answer": "Hypertext Markup Language",
+			"userAnswer": "hypertext markup language",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.2528696
+		}
+	],
+	"totalPoints": 7028
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"playerRecords": [
+		{
+			"question": "What does \"WWW\" stand for in a website's URL?",
+			"answer": "World Wide Web",
+			"userAnswer": "world wide web",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.9365563
+		},
+		{
+			"question": "What is the full form of \"URL\"?",
+			"answer": "Uniform Resource Locator",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 5.6451035
+		},
+		{
+			"question": "What programming language is commonly used for creating web pages?",
+			"answer": "HTML/CSS",
+			"userAnswer": "javascript",
+			"confidence": 3,
+			"timeTaken": 9.086685
+		},
+		{
+			"question": "What does \"CPU\" stand for?",
+			"answer": "Central Processing Unit",
+			"userAnswer": "central processing unit",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.852518
+		},
+		{
+			"question": "What does \"LAN\" stand for?",
+			"answer": "Local Area Network",
+			"userAnswer": "local area network",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.369255
+		},
+		{
+			"question": "What does \"LAN\" stand for?",
+			"answer": "Local Area Network",
+			"userAnswer": "local area network",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.8693004
+		},
+		{
+			"question": "What is the primary purpose of a firewall?",
+			"answer": "Protection",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 6.052641
+		}
+	],
+	"totalPoints": 4732
+},
+{
+	"difficulty": "medium",
+	"subject": "cs",
+	"playerWon": "false",
+	"playerRecords": [
+		{
+			"question": "What is the difference between a stack and a queue in data structures?",
+			"answer": "LIFO/FIFO",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 2.0924377
+		},
+		{
+			"question": "What does \"SQL\" stand for?",
+			"answer": "Structured Query Language",
+			"userAnswer": "structured query langaauage",
+			"confidence": 3,
+			"timeTaken": 8.938068
+		},
+		{
+			"question": "What does \"SQL\" stand for?",
+			"answer": "Structured Query Language",
+			"userAnswer": "structured query language",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.5035014
+		},
+		{
+			"question": "What is an algorithm?",
+			"answer": "Procedure",
+			"userAnswer": "isk",
+			"confidence": 3,
+			"timeTaken": 5.7700553
+		}
+	],
+	"totalPoints": 1364
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"playerRecords": [
+		{
+			"question": "What is the primary function of an operating system?",
+			"answer": "Management",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 3.2176714
+		},
+		{
+			"question": "What is the main function of a CPU?",
+			"answer": "Execution",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 2.369864
+		},
+		{
+			"question": "What is the main function of a CPU?",
+			"answer": "Execution",
+			"userAnswer": "idk",
+			"confidence": 1,
+			"timeTaken": 2.519648
+		},
+		{
+			"question": "What does \"LAN\" stand for?",
+			"answer": "Local Area Network",
+			"userAnswer": "local area network",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.769731
+		},
+		{
+			"question": "What is the primary function of an operating system?",
+			"answer": "Management",
+			"userAnswer": "idk",
+			"confidence": 1,
+			"timeTaken": 2.8858495
+		},
+		{
+			"question": "What does \"WWW\" stand for in a website's URL?",
+			"answer": "World Wide Web",
+			"userAnswer": "world wide web",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.1862645
+		}
+	],
+	"totalPoints": 2260
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"playerRecords": [
+		{
+			"question": "What does \"LAN\" stand for?",
+			"answer": "Local Area Network",
+			"userAnswer": "local area network",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.540808
+		},
+		{
+			"question": "What does \"CPU\" stand for?",
+			"answer": "Central Processing Unit",
+			"userAnswer": "central processing unit",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.8212872
+		},
+		{
+			"question": "What does \"CPU\" stand for?",
+			"answer": "Central Processing Unit",
+			"userAnswer": "central processing unit",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.8864274
+		},
+		{
+			"question": "What is the primary purpose of a firewall?",
+			"answer": "Protection",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 3.737774
+		},
+		{
+			"question": "What is the full form of \"URL\"?",
+			"answer": "Uniform Resource Locator",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 2.9875226
+		},
+		{
+			"question": "What does \"WWW\" stand for in a website's URL?",
+			"answer": "World Wide Web",
+			"userAnswer": "world wide web",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.3370414
+		},
+		{
+			"question": "What does \"WWW\" stand for in a website's URL?",
+			"answer": "World Wide Web",
+			"userAnswer": "world wide web",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.4218936
+		},
+		{
+			"question": "What is the primary function of an operating system?",
+			"answer": "Management",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 3.1041646
+		},
+		{
+			"question": "What programming language is commonly used for creating web pages?",
+			"answer": "HTML/CSS",
+			"userAnswer": "php",
+			"confidence": 3,
+			"timeTaken": 4.382317
+		},
+		{
+			"question": "What is the primary function of an operating system?",
+			"answer": "Management",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 7.203371
+		}
+	],
+	"totalPoints": 6073
+},
+{
+	"difficulty": "medium",
+	"subject": "cs",
+	"playerWon": "false",
+	"playerRecords": [
+		{
+			"question": "What does API stand for in software development?",
+			"answer": "Application Programming Interface",
+			"userAnswer": "idk",
+			"confidence": 2,
+			"timeTaken": 5.542527
+		},
+		{
+			"question": "What is the main purpose of a firewall in a network?",
+			"answer": "Security",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 2.404132
+		},
+		{
+			"question": "What is the role of an algorithm in computing?",
+			"answer": "Problem-solving",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 3.154367
+		}
+	]
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"playerRecords": [
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.3667545
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "dynamic programming",
+			"confidence": 3,
+			"timeTaken": 9.519317
+		},
+		{
+			"question": "What is Git used for?",
+			"answer": "Version control",
+			"userAnswer": "3",
+			"confidence": 4,
+			"timeTaken": 2.475006
+		}
+	]
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"playerRecords": [
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.063921
+		}
+	],
+	"totalPoints": 1336
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 162.03244,
+	"monsterHealth": 109.59861,
+	"playerRecords": [
+		{
+			"question": "Is HTTPS more secure than HTTP?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.474289
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 2.4915338
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2775707
+		},
+		{
+			"question": "What do DNS servers translate domain names to?",
+			"answer": "IP addresses",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 8.307053
+		},
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 4.254373
+		},
+		{
+			"question": "What does HTML primarily structure?",
+			"answer": "Web pages",
+			"userAnswer": "web pages",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.770414
+		},
+		{
+			"question": "What is an IDE used for?",
+			"answer": "Development",
+			"userAnswer": "development",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.7873673
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 5.6207256
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Forwarding",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"timeTaken": 2.9902353
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.804339
+		}
+	],
+	"totalPoints": 2981,
+	"date": "2024-03-28 10:16:14"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "true",
+	"monsterHealth": 18.166763,
+	"playerRecords": [
+		{
+			"question": "Is HTTPS more secure than HTTP?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.474289
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 2.4915338
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2775707
+		},
+		{
+			"question": "What do DNS servers translate domain names to?",
+			"answer": "IP addresses",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 8.307053
+		},
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 4.254373
+		},
+		{
+			"question": "What does HTML primarily structure?",
+			"answer": "Web pages",
+			"userAnswer": "web pages",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.770414
+		},
+		{
+			"question": "What is an IDE used for?",
+			"answer": "Development",
+			"userAnswer": "development",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.7873673
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 5.6207256
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Forwarding",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"timeTaken": 2.9902353
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.804339
+		},
+		{
+			"question": "What do DNS servers translate domain names to?",
+			"answer": "IP addresses",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 8.307053
+		},
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 4.254373
+		},
+		{
+			"question": "What does HTML primarily structure?",
+			"answer": "Web pages",
+			"userAnswer": "web pages",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.770414
+		},
+		{
+			"question": "What is an IDE used for?",
+			"answer": "Development",
+			"userAnswer": "development",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.7873673
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 5.6207256
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Forwarding",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"timeTaken": 2.9902353
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.804339
+		}
+	],
+	"totalPoints": 3069,
+	"date": "2024-03-28 10:16:57"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 18.880854,
+	"playerRecords": [
+		{
+			"question": "Is JSON commonly used for data exchange?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.424064
+		},
+		{
+			"question": "What does a compiler do to source code?",
+			"answer": "Translates",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 5.139016
+		},
+		{
+			"question": "What do routers do with data?",
+			"answer": "Forwarding",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 6.2104645
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 3.1189356
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 2.205729
+		},
+		{
+			"question": "What is an IDE used for?",
+			"answer": "Development",
+			"userAnswer": "development",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.8052197
+		},
+		{
+			"question": "What is IP in networking?",
+			"answer": "Protocol",
+			"userAnswer": "protocol",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.989036
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.78873
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 2.839147
+		},
+		{
+			"question": "What is an IDE used for?",
+			"answer": "Development",
+			"userAnswer": "development",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.0962815
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "scripting",
+			"confidence": 3,
+			"timeTaken": 4.15663
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.7861624
+		},
+		{
+			"question": "What does HTML primarily structure?",
+			"answer": "Web pages",
+			"userAnswer": "web pages",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.7285953
+		}
+	],
+	"totalPoints": 9572,
+	"date": "2024-03-28 10:19:40"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "true",
+	"monsterHealth": 133.66463,
+	"playerRecords": [
+		{
+			"question": "What type of language is XML?",
+			"answer": "Markup",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.6071696
+		},
+		{
+			"question": "What does a compiler do to source code?",
+			"answer": "Translates",
+			"userAnswer": "web pages",
+			"confidence": 3
+		},
+		{
+			"question": "What does a compiler do to source code?",
+			"answer": "Translates",
+			"userAnswer": "",
+			"confidence": 3,
+			"timeTaken": 5
+		}
+	],
+	"totalPoints": 1438,
+	"date": "2024-03-28 10:27:19"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 150.74931,
+	"monsterHealth": 175.68567,
+	"playerRecords": [
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.5556192
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.9193635
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.849987
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2044115
+		}
+	],
+	"totalPoints": 1368,
+	"date": "2024-03-28 10:38:58"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 150,
+	"monsterHealth": 7.5977573,
+	"playerRecords": [
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.5556192
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.9193635
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.849987
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2044115
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.849987
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2044115
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.273989
+		}
+	],
+	"totalPoints": 1563,
+	"date": "2024-03-28 10:39:26"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 139.935,
+	"playerRecords": [
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.5556192
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.9193635
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.849987
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2044115
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.849987
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2044115
+		}
+	],
+	"date": "2024-03-28 10:44:40"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 150,
+	"playerRecords": [
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.5556192
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.9193635
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.849987
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2044115
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.849987
+		},
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.2044115
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.273989
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.273989
+		}
+	],
+	"totalPoints": 163,
+	"date": "2024-03-28 10:45:07"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 191.59184,
+	"monsterHealth": 184.95465,
+	"playerRecords": [
+		{
+			"question": "What do cookies store in web browsers?",
+			"answer": "Data",
+			"userAnswer": "data",
+			"confidence": 1,
+			"correctness": true,
+			"timeTaken": 5.282474
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interact",
+			"confidence": 2,
+			"correctness": true,
+			"timeTaken": 5.355957
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.564893
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 3.1847806
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.774303
+		}
+	],
+	"totalPoints": 1051,
+	"date": "2024-03-28 10:45:38"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 150.72986,
+	"monsterHealth": 44.189445,
+	"playerRecords": [
+		{
+			"question": "What do cookies store in web browsers?",
+			"answer": "Data",
+			"userAnswer": "data",
+			"confidence": 1,
+			"correctness": true,
+			"timeTaken": 5.282474
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interact",
+			"confidence": 2,
+			"correctness": true,
+			"timeTaken": 5.355957
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.564893
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 3.1847806
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.774303
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.564893
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 3.1847806
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.774303
+		},
+		{
+			"question": "What is IP in networking?",
+			"answer": "Protocol",
+			"userAnswer": "instructions",
+			"confidence": 3
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "security",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.069072
+		},
+		{
+			"question": "What type of language is XML?",
+			"answer": "Markup",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.3375993
+		}
+	],
+	"totalPoints": 1499,
+	"date": "2024-03-28 10:46:17"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "true",
+	"playerRecords": [
+		{
+			"question": "What do cookies store in web browsers?",
+			"answer": "Data",
+			"userAnswer": "data",
+			"confidence": 1,
+			"correctness": true,
+			"timeTaken": 5.282474
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interact",
+			"confidence": 2,
+			"correctness": true,
+			"timeTaken": 5.355957
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.564893
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 3.1847806
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.774303
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 9.564893
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 3.1847806
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.774303
+		},
+		{
+			"question": "What is IP in networking?",
+			"answer": "Protocol",
+			"userAnswer": "instructions",
+			"confidence": 3
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "security",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.069072
+		},
+		{
+			"question": "What type of language is XML?",
+			"answer": "Markup",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.3375993
+		},
+		{
+			"question": "What is IP in networking?",
+			"answer": "Protocol",
+			"userAnswer": "instructions",
+			"confidence": 3
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "security",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.069072
+		},
+		{
+			"question": "What type of language is XML?",
+			"answer": "Markup",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.3375993
+		}
+	],
+	"totalPoints": 2608,
+	"date": "2024-03-28 10:47:30"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 172.76056,
+	"monsterHealth": 149.35437,
+	"playerRecords": [
+		{
+			"question": "Is JSON commonly used for data exchange?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.440991
+		},
+		{
+			"question": "What do routers do with data?",
+			"answer": "Forwarding",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 2.8208442
+		}
+	],
+	"totalPoints": 1476,
+	"date": "2024-03-28 10:48:59"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 163.92073,
+	"monsterHealth": 105.82488,
+	"playerRecords": [
+		{
+			"question": "What do routers do with data?",
+			"answer": "Forwarding",
+			"userAnswer": "ecrypt",
+			"confidence": 3,
+			"timeTaken": 6.198495
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 2.621244
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.8545814
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.8398175
+		},
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.5546937
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.5787907
+		}
+	],
+	"totalPoints": 3043,
+	"date": "2024-03-28 10:50:20"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 115.1563,
+	"monsterHealth": 42.765816,
+	"playerRecords": [
+		{
+			"question": "What do routers do with data?",
+			"answer": "Forwarding",
+			"userAnswer": "ecrypt",
+			"confidence": 3,
+			"timeTaken": 6.198495
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 2.621244
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.8545814
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.8398175
+		},
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.5546937
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.5787907
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.8398175
+		},
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 3.5546937
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.5787907
+		}
+	],
+	"totalPoints": 1931,
+	"date": "2024-03-28 10:51:03"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 78,
+	"playerRecords": [
+		{
+			"question": "What is SQL used for in databases?",
+			"answer": "Querying",
+			"userAnswer": "querying",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.017714
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"timeTaken": 10
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.4621124
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 0.12214756
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.861488
+		}
+	],
+	"totalPoints": 1346,
+	"date": "2024-03-28 10:59:23"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 80.62745,
+	"monsterHealth": 50.06997,
+	"playerRecords": [
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 2.8600206
+		},
+		{
+			"question": "What does a compiler do to source code?",
+			"answer": "Translates",
+			"userAnswer": "tranlate",
+			"confidence": 3,
+			"timeTaken": 0.45202446
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "connectivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 1.8448734
+		}
+	],
+	"totalPoints": 415,
+	"date": "2024-03-28 11:00:37"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "true",
+	"monsterHealth": 135.82991,
+	"playerRecords": [
+		{
+			"question": "What does HTML primarily structure?",
+			"answer": "Web pages",
+			"userAnswer": "web pages",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.3488755
+		},
+		{
+			"question": "What type of language is XML?",
+			"answer": "Markup",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.762042
+		},
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"timeTaken": 10
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "protocol",
+			"confidence": 3,
+			"timeTaken": 10
+		}
+	],
+	"date": "2024-03-28 15:41:34"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 158.36159,
+	"monsterHealth": 188.84935,
+	"playerRecords": [
+		{
+			"question": "What is CSS mainly used for?",
+			"answer": "Styling web pages",
+			"userAnswer": "styling",
+			"confidence": 3,
+			"timeTaken": 6.850596
+		}
+	],
+	"date": "2024-03-28 17:03:20"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 197.39044,
+	"monsterHealth": 171.0527,
+	"playerRecords": [
+		{
+			"question": "What do routers do with data?",
+			"answer": "Forwarding",
+			"userAnswer": "check",
+			"confidence": 3,
+			"timeTaken": 5.11598
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 4.5781255
+		}
+	],
+	"date": "2024-03-28 17:04:42"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 200,
+	"monsterHealth": 110.645905,
+	"playerRecords": [
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.132354
+		},
+		{
+			"question": "Hello ",
+			"answer": "There",
+			"userAnswer": "there",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.0114985
+		}
+	],
+	"date": "2024-03-28 17:06:52"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 169.32483,
+	"playerRecords": [
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.403347
+		},
+		{
+			"question": "Is HTTPS more secure than HTTP?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.5609703
+		},
+		{
+			"question": "What does CPU execute?",
+			"answer": "Instructions",
+			"userAnswer": "instructions",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.8607945
+		},
+		{
+			"question": "What does HTML primarily structure?",
+			"answer": "Web pages",
+			"userAnswer": "web pages",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.811502
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.493723
+		},
+		{
+			"question": "What is Git used for?",
+			"answer": "Version control",
+			"userAnswer": "version control",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.2777123
+		}
+	],
+	"totalPoints": 8867,
+	"date": "2024-03-28 17:08:59"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 9.084377,
+	"monsterHealth": 106.17149,
+	"playerRecords": [
+		{
+			"question": "What do DNS servers translate domain names to?",
+			"answer": "IP addresses",
+			"userAnswer": "idk",
+			"confidence": 3,
+			"timeTaken": 6.6443806
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 2,
+			"correctness": true,
+			"timeTaken": 0.009143829
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 2.3015633
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "",
+			"confidence": 1,
+			"timeTaken": 10
+		},
+		{
+			"question": "What does Wi-Fi provide for devices?",
+			"answer": "Connectivity",
+			"userAnswer": "",
+			"confidence": 2,
+			"timeTaken": 3.880292
+		}
+	],
+	"date": "2024-03-28 17:14:03"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 144.86295,
+	"playerRecords": [
+		{
+			"question": "Is HTTPS more secure than HTTP?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.470034
+		},
+		{
+			"question": "What does a compiler do to source code?",
+			"answer": "Translates",
+			"userAnswer": "translate",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.0446887
+		},
+		{
+			"question": "What type of language is XML?",
+			"answer": "Markup",
+			"userAnswer": "markup",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.361394
+		},
+		{
+			"question": "What is the main function of a firewall?",
+			"answer": "Security",
+			"userAnswer": "idk",
+			"confidence": 1,
+			"timeTaken": 7.844947
+		},
+		{
+			"question": "Is JSON commonly used for data exchange?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.6274533
+		}
+	],
+	"totalPoints": 6413,
+	"date": "2024-03-28 17:19:08"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 95.28503,
+	"playerRecords": [
+		{
+			"question": "testing",
+			"answer": "test",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"timeTaken": 6.926183
+		},
+		{
+			"question": "What do DNS servers translate domain names to?",
+			"answer": "IP addresses",
+			"userAnswer": "idk",
+			"confidence": 1,
+			"timeTaken": 6.876989
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.4441814
+		},
+		{
+			"question": "What is an IDE used for?",
+			"answer": "Development",
+			"userAnswer": "development",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 6.5613227
+		},
+		{
+			"question": "What do cookies store in web browsers?",
+			"answer": "Data",
+			"userAnswer": "data",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 3.8105044
+		},
+		{
+			"question": "Is JSON commonly used for data exchange?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.9775424
+		},
+		{
+			"question": "What type of memory is RAM?",
+			"answer": "Volatile",
+			"userAnswer": "volatile",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.227549
+		}
+	],
+	"totalPoints": 6979,
+	"date": "2024-03-29 08:18:24"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "false",
+	"gameFinished": "false",
+	"playerHealth": 200,
+	"monsterHealth": 200,
+	"date": "2024-03-29 08:21:43"
+},
+{
+	"difficulty": "easy",
+	"subject": "cs",
+	"playerWon": "true",
+	"gameFinished": "true",
+	"playerHealth": 159.2387,
+	"playerRecords": [
+		{
+			"question": "Hello ",
+			"answer": "There",
+			"userAnswer": "there",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 7.0144916
+		},
+		{
+			"question": "What type of network is LAN?",
+			"answer": "Local",
+			"userAnswer": "local",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 8.194723
+		},
+		{
+			"question": "Is Python an interpreted language?",
+			"answer": "Yes",
+			"userAnswer": "yes",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 8.111269
+		},
+		{
+			"question": "What does JavaScript enable on websites?",
+			"answer": "Interactivity",
+			"userAnswer": "interactivity",
+			"confidence": 3,
+			"correctness": true,
+			"timeTaken": 5.6789956
+		}
+	],
+	"totalPoints": 6525,
+	"date": "2024-03-29 09:47:27"
+},
+{
+"difficulty": "easy",
+"subject": "cs",
+"playerWon": "false",
+"gameFinished": "false",
+"playerHealth": 190.75302,
+"monsterHealth": 134.72932,
+"playerRecords": [
+	{
+		"question": "Is JSON commonly used for data exchange?",
+		"answer": "Yes",
+		"userAnswer": "yes",
+		"confidence": 3,
+		"correctness": true,
+		"timeTaken": 7.900919
+	}
+],
+"totalPoints": 1778,
+"date": "2024-04-01 14:29:26"
+}]

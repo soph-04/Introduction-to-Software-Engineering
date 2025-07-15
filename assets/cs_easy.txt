@@ -1,0 +1,40 @@
+What does HTML primarily structure?
+Web pages
+What does CPU execute?
+Instructions
+What is CSS mainly used for?
+Styling web pages
+What is SQL used for in databases?
+Querying
+Is Python an interpreted language?
+Yes
+What do routers do with data?
+Forwarding
+Is HTTPS more secure than HTTP?
+Yes
+What is an IDE used for?
+Development
+What is the main function of a firewall?
+Security
+Is JSON commonly used for data exchange?
+Yes
+What do DNS servers translate domain names to?
+IP addresses
+What type of memory is RAM?
+Volatile
+What does JavaScript enable on websites?
+Interactivity
+What is IP in networking?
+Protocol
+What does a compiler do to source code?
+Translates
+What type of language is XML?
+Markup
+What do cookies store in web browsers?
+Data
+What type of network is LAN?
+Local
+What does Wi-Fi provide for devices?
+Connectivity
+What is Git used for?
+Version control
